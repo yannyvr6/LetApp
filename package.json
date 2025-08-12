@@ -2,7 +2,7 @@
   "name": "letapp",
   "version": "1.0.0",
   "description": "first desktop app",
-  "main": "package.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron-forge start",
