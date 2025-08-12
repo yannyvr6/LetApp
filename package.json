@@ -1,0 +1,12 @@
+{
+  "name": "letapp",
+  "version": "1.0.0",
+  "description": "first desktop app",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Yanny Diaz",
+  "license": "ISC"
+}
