@@ -1,4 +1,9 @@
 # LetApp
+This is a Recipe App for personal use.
+
+It also comes with a grocery List for each receipe and a weeekly meal plan.
+
+App is still in the works but will keep updating it! 🧚‍♂️✨
 
 The Original instructions for this the launching of the app come from https://github.com/Btelgeuse/DesktopAppTutorial
 
